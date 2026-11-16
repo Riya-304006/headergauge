@@ -1,0 +1,19 @@
+{
+  "name": "headergauge",
+  "version": "1.0.0",
+  "description": "A lightweight HTTP header analyzer for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "http",
+    "headers",
+    "security",
+    "nodejs",
+    "analyzer"
+  ],
+  "author": "Riya Singh",
+  "license": "MIT",
+  "type": "commonjs"
+}
